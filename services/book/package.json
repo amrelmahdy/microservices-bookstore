@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "books.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amr El Mahdy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-joi-validation": "^5.0.0",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.15",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  }
+}
